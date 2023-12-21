@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Product Manager & Data Analyst
 ---------------------------------------
 
-I have about 5 years of experience in the IT field in both service and product oriented firm. I started my career as an IT Business Analyst working with big data and clients demanding uncompromising data security. My recent experience for a SaaS based product company exposed me to an array of things like cloud infrastructure, data analytics, software deployment, customer relations and product management. I am a graduate student currently pursuing a masters in business analytics to hone my technical and business skills.
+I have about 5 years of experience in the IT sector, having worked in both service and product-oriented firms. Starting my career as an IT Business Analyst, I specialized in managing extensive datasets and catering to clients with stringent data security requirements. My recent tenure at a SaaS-based product company provided me with a diverse skill set, delving into areas such as cloud infrastructure, data analytics, software deployment, customer relations, and product management. Currently, I am a graduate student pursuing a Masters in Business Analytics to further refine my technical and business acumen.
 
 * 🌍  I'm based in Bay Area, California
 * 🖥️  See my portfolio at [WordPress](http://abhinav14rd.wordpress.com/)
